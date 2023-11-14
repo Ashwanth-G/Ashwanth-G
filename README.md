@@ -9,7 +9,7 @@
 
 🌱 Currently learning and growing every day. Open to collaboration and always up for a coding challenge. Let's connect, learn, and build together! 💡
 
-📫 Reach me at: [Your Email]
+📫 Reach me at: ashwanthgandhiraj@gmail.com
 
 
 <!---
