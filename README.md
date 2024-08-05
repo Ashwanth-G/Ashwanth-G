@@ -5,7 +5,7 @@
 💻 Tech Stack:
 - Languages: C++, Python
 - Tools: Git, VS Code
-- Web: HTML, CSS (and dipping my toes into JavaScript)
+- Web: HTML, CSS and JavaScript
 
 🌱 Currently learning and growing every day. Open to collaboration and always up for a coding challenge. Let's connect, learn, and build together! 💡
 
