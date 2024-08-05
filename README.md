@@ -1,4 +1,4 @@
-👋 Hello World! I'm Ashwanth G, a passionate college freshman exploring the fascinating world of computer science 🚀. Currently diving into the realms of coding, algorithms, and software development.
+👋 Hello World! I'm Ashwanth G, a passionate college sophomore exploring the fascinating world of computer science 🚀. Currently diving into the realms of coding, algorithms, and software development.
 
 🎓 Studying BTech - Artificial Intelligence and Data Science at Chennai Institute of Technology,  I'm eager to learn and contribute to open-source projects. My journey is just beginning, and I'm excited about the endless possibilities that coding offers.
 
